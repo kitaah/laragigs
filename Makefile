@@ -3,5 +3,5 @@
 up: ## Start Laravel Sail
 	@./vendor/bin/sail up
 
-migrate: ## Start Laravel Sail
+migrate: ## Migration launched
 	@./vendor/bin/sail artisan migrate
